@@ -15,7 +15,9 @@ Welcome to Cineverse - TheMovieDB, an exciting React.js project that utilizes SC
 Follow these simple steps to set up and run the project on your local machine:
 
 ### 1. Clone the repository:
-```git clone https://github.com/your-username/cineverse-themoviedb.git```
+```
+https://github.com/coderxploit/Cineverse-theMovieDB.git
+```
 
 ### 2. Navigate to the project directory:
 

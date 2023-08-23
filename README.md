@@ -1,5 +1,6 @@
 # Cineverse-theMovieDB
 
+![Cineverse-theMovieDB](https://github.com/coderxploit/Cineverse-theMovieDB/blob/main/src/assets/Screenshot%202023-08-15%20195455.png)
 
 Welcome to Cineverse - TheMovieDB, an exciting React.js project that utilizes SCSS for styling and the TMDB API for fetching movie and TV show data. This web application allows you to dive into the world of cinema and television, offering comprehensive details about your favorite movies and shows, akin to the experience provided by IMDB.
 

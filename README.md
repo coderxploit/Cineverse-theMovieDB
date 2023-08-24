@@ -4,10 +4,8 @@
 
 Welcome to Cineverse - TheMovieDB, an exciting React.js project that utilizes SCSS for styling and the TMDB API for fetching movie and TV show data. This web application allows you to dive into the world of cinema and television, offering comprehensive details about your favorite movies and shows, akin to the experience provided by IMDB.
 
-# Live project link
-```
-https://frabjous-toffee-4b7f15.netlify.app/
-```
+# [Live project link](https://frabjous-toffee-4b7f15.netlify.app/)
+
 ## Features
 -Explore an extensive library of movies, TV shows, and web series.
 -Access in-depth information for each title, including synopsis, release date, genres, ratings, and more.
